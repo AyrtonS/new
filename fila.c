@@ -1,5 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
+
+// OII EU ESTIVE AQUI COMMITANDO
+
 typedef struct cel{
 	int conteudo;
 	struct cel* seg;
